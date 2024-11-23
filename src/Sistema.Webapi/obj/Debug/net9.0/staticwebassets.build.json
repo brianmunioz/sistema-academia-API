@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "phPc+Phx+ciqCJdEKIBFmdZf8JKaQyTaVtMwcSz7MRw=",
+  "Source": "Sistema.webapi",
+  "BasePath": "_content/Sistema.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
