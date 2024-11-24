@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33B7A219-01A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.webapi", "src\Sistema.Webapi\Sistema.webapi.csproj", "{AEF6E3E1-9D95-4832-9FA4-17EE10CE73E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Domain", "src\Sistema.Domain\Sistema.Domain.csproj", "{EB77A275-7B90-4D08-8ACA-F518AD0246BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Persistence", "src\Sistema.Persistence\Sistema.Persistence.csproj", "{DAADE3F5-62EC-4F7F-86FD-2C291C9389CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,18 @@ Global
 		{AEF6E3E1-9D95-4832-9FA4-17EE10CE73E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEF6E3E1-9D95-4832-9FA4-17EE10CE73E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEF6E3E1-9D95-4832-9FA4-17EE10CE73E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB77A275-7B90-4D08-8ACA-F518AD0246BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB77A275-7B90-4D08-8ACA-F518AD0246BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB77A275-7B90-4D08-8ACA-F518AD0246BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB77A275-7B90-4D08-8ACA-F518AD0246BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAADE3F5-62EC-4F7F-86FD-2C291C9389CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAADE3F5-62EC-4F7F-86FD-2C291C9389CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAADE3F5-62EC-4F7F-86FD-2C291C9389CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAADE3F5-62EC-4F7F-86FD-2C291C9389CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AEF6E3E1-9D95-4832-9FA4-17EE10CE73E8} = {33B7A219-01AF-406A-A96D-887827BAA353}
+		{EB77A275-7B90-4D08-8ACA-F518AD0246BA} = {33B7A219-01AF-406A-A96D-887827BAA353}
+		{DAADE3F5-62EC-4F7F-86FD-2C291C9389CE} = {33B7A219-01AF-406A-A96D-887827BAA353}
 	EndGlobalSection
 EndGlobal
