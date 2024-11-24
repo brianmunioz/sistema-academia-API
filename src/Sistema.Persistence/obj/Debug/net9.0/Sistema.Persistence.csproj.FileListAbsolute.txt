@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\bin\Debug\net9.0\Sistema.Persistence.deps.json
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\bin\Debug\net9.0\Sistema.Persistence.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\bin\Debug\net9.0\Sistema.Persistence.pdb
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\bin\Debug\net9.0\Sistema.Domain.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\bin\Debug\net9.0\Sistema.Domain.pdb
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.AssemblyInfo.cs
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.sourcelink.json
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema..205EFBAE.Up2Date
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\refint\Sistema.Persistence.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\Sistema.Persistence.pdb
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Persistence\obj\Debug\net9.0\ref\Sistema.Persistence.dll

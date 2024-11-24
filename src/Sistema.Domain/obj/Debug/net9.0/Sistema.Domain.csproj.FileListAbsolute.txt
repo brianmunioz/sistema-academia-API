@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\bin\Debug\net9.0\Sistema.Domain.deps.json
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\bin\Debug\net9.0\Sistema.Domain.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\bin\Debug\net9.0\Sistema.Domain.pdb
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.AssemblyInfo.cs
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.sourcelink.json
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\refint\Sistema.Domain.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\Sistema.Domain.pdb
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Domain\obj\Debug\net9.0\ref\Sistema.Domain.dll

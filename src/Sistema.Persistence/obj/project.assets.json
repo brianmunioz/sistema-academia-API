@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "Sistema.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Sistema.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sistema.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Sistema.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Sistema.Domain/Sistema.Domain.csproj",
+      "msbuildProject": "../Sistema.Domain/Sistema.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "Sistema.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PC\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PC\\Desktop\\proyectos\\Sistema\\src\\Sistema.Domain\\Sistema.Domain.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\proyectos\\Sistema\\src\\Sistema.Domain\\Sistema.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

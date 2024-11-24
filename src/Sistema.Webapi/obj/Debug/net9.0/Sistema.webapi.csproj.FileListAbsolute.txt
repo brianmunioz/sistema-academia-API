@@ -44,3 +44,4 @@ C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Webapi\bin\Debug\net9.0\NSwag.
 C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Webapi\bin\Debug\net9.0\NSwag.Generation.dll
 C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Webapi\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
 C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Webapi\bin\Debug\net9.0\YamlDotNet.dll
+C:\Users\PC\Desktop\proyectos\Sistema\src\Sistema.Webapi\obj\Debug\net9.0\Sistema.webapi.sourcelink.json
