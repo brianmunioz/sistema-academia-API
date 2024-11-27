@@ -3,6 +3,7 @@ public class Curso:BaseEntity
 {
     public string? Titulo {get; set;}
     public string? Descripcion { get; set;}
+    public DateTime? FechaPublicacion {get; set;}
 
     public ICollection<Calificacion>? Calificaciones {get; set;} 
     public ICollection<Precio>? Precios {get; set;}
