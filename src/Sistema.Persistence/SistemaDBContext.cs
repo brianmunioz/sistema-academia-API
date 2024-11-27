@@ -1,6 +1,6 @@
-using System.Globalization;
 using Bogus;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Sistema.Domain;
 
 namespace Sistema.Persistence;
@@ -14,9 +14,13 @@ public class SistemaDBContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlite("Data Source=LocalDatabase.db")
-        .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Command.Name },
+        .LogTo(
+        Console.WriteLine,
+         new[]{ DbLoggerCategory.Database.Command.Name },
         Microsoft.Extensions.Logging.LogLevel.Information
-        ).EnableSensitiveDataLogging();
+        )
+        .EnableSensitiveDataLogging()
+        .ConfigureWarnings(warnings => warnings.Ignore(RelationalEventId.PendingModelChangesWarning));
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -24,10 +28,10 @@ public class SistemaDBContext : DbContext
         base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Curso>().ToTable("cursos");
         modelBuilder.Entity<Instructor>().ToTable("instructores");
-        modelBuilder.Entity<CursoInstructor>().ToTable("curso_instructores");
+        modelBuilder.Entity<CursoInstructor>().ToTable("cursos_instructores");
         modelBuilder.Entity<Calificacion>().ToTable("calificaciones");
         modelBuilder.Entity<Precio>().ToTable("precios");
-        modelBuilder.Entity<CursoPrecio>().ToTable("curso_precios");
+        modelBuilder.Entity<CursoPrecio>().ToTable("cursos_precios");
         modelBuilder.Entity<Photo>().ToTable("imagenes");
 
         modelBuilder.Entity<Precio>()
